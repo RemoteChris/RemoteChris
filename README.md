@@ -12,4 +12,4 @@ When the screens are off, I'm probably soaking up the sun at the beach, explorin
 ### 💼 Let's Collaborate:
 Looking for someone to turn your vision into reality? Need a bug-hunting hero? I'm your guy! Let's connect and create something amazing together.
 
-### "Code, Pub, and Sun - In that order!" - That's my motto. 😎 Hi there 👋
+### "Code, Pub, and Sun - In that order!" - That's my motto. 😎
