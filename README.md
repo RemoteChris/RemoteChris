@@ -1,3 +1,5 @@
+## 🚀 Hello there! I'm Chris, your go-to guy for all things code. 🧑‍💻 <img  src="https://komarev.com/ghpvc/?username=RemoteChris&label=Profile%20views&color=0e75b6&style=flat&base=3437" alt="RemoteChris" />
+
 ### 🚀 Hello there! I'm Chris, your go-to guy for all things code. 🧑‍💻
 
 ### 🌟 About Me:
