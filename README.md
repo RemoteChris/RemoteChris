@@ -4,7 +4,7 @@
 </p>
 
 ### 🌟 About Me:
-As a full-time software engineer with a first-class degree under my belt and 4 years of professional experience, I craft solutions that are not just effective but also sleek and smooth - just like a perfectly poured pint! 🍺 Living in the UK, I juggle my time between coding masterpieces and living life to its fullest.
+As a full-time software engineer with a first-class degree under my belt and 6 years of professional experience, I craft solutions that are not just effective but also sleek and smooth - just like a perfectly poured pint! 🍺 Living in the UK, I juggle my time between coding masterpieces and living life to its fullest.
 
 ### 👨‍💻 Professional Wizardry:
 My day-to-day involves unraveling the mysteries of code, fixing bugs like a pro, and developing solutions that make clients smile. When I'm not in my coding zone, you can find me freelancing, where I bring ideas to life with clean, high-quality code that speaks for itself.
